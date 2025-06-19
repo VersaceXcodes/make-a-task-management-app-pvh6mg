@@ -1,6 +1,10 @@
-/.git
-/node_modules
-.dockerignore
-.env
-Dockerfile
-fly.toml
+**/node_modules
+**/dist
+**/.env
+**/.git
+**/.gitignore
+**/.DS_Store
+**/npm-debug.log
+**/README.md
+**/.next
+**/.cache
